@@ -1,0 +1,13 @@
+- domain: test1.example.com
+  action: upsert
+  zone: ZONEID
+  type: A
+  ttl: 112
+  value: 2.2.2.2
+- domain: test13.example.com
+  action: upsert
+  zone: ZONEID
+  type: A
+  ttl: 112
+  value: 2.2.2.3
+
